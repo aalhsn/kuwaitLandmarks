@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Kuwait Towers",
+        "category": "Tower",
+        "city": "Kuwait",
+        "state": "Kuwait City",
+        "id": 1001,
+        "park": "Gulf Street",
+        "coordinates": {
+            "longitude": 48.003212,
+            "latitude": 29.389633
+        },
+        "imageName": "kuwait_towers",
+        "description": "The Kuwait Towers are a group of three slender towers in Kuwait City, standing on a promontory into the Persian Gulf. They were the sixth, and last, group in the larger Kuwait Water Towers system of 34 towers (33 store water; one stores equipment), and were built in a style considerably different from the other five groups. The Kuwait Towers were officially inaugurated in March 1979 and are regarded as a landmark and symbol of modern Kuwait. The towers were closed for maintenance from March 2012 to 8 March 2016, with a massive fireworks festival commemorating the re-opening.",
+    },
+    {
+        "name": "Al Shaheed Park",
+        "category": "National Park",
+        "city": "Kuwait",
+        "state": "Kuwait City",
+        "id": 1002,
+        "park": "Soor Street",
+        "coordinates": {
+            "longitude": 47.994161,
+            "latitude": 29.369797
+        },
+        "imageName": "alshaheed",
+        "description": "Al Shaheed Park is a fully integrated cultural platform with cutting-edge architecture and art works. The park's Amphitheater diversifies into different kinds of gardens (Oasis Garden, Museum Garden, Seasonal Garden and others), walkways (Visitors and Pedestrian Passages), museums, exhibition areas, outdoor theatres, and performance centers for music concerts, theatrical performances, art exhibitions, and other kinds of cultural events. Al Shaheed Park consists of several phases. Phase II of the park opened in April 2017. The new phase includes a skate park, parkour area, tree top climbing obstacles, multipurpose youth complex, board and interactive games area, and an open-air performance centre. Al Shaheed Park landscapes also hold multiple historical zones such as the Memorial zone and the Museum zone. The park is part of the new Kuwait National Cultural District (KNCD).",
+    },
+    {
+        "name": "Green Island",
+        "category": "Park",
+        "city": "Kuwait",
+        "state": "Kuwait City",
+        "id": 1003,
+        "park": "Gulf Street",
+        "coordinates": {
+            "longitude": 48.026589,
+            "latitude": 29.364773
+        },
+        "imageName": "green",
+        "description": "The Green Island is an artificial island in Kuwait, off the coast of Kuwait City's promenade. It was opened in 1988 and is a popular tourist attraction and it is the first artificial island in the Persian Gulf region",
+    },
+    {
+         "name": "Alhamra Tower",
+         "category": "Tower",
+         "city": "Kuwait",
+         "state": "Kuwait City",
+         "id": 1004,
+         "park": "Alshuhada Street",
+         "coordinates": {
+             "longitude": 47.993066,
+             "latitude": 29.379268
+         },
+         "imageName": "alhamra",
+         "description": "Construction of the skyscraper started in 2005. It was completed in 2011. Designed by architectural firms Skidmore, Owings & Merrill and Ramshir and Callison, it is the tallest carved concrete skyscraper in the world, and the thirty-sixth tallest building in the world at 414 m (1,358 ft). The building utilizes wrapped glass facades on the east, north, and west both for aesthetics and to reduce the amount of reflective surface area on the south facade, which also features brushed Jura limestone. Flared walls reaching from the southwest and southeast corners of the core span the entire height of the tower, and there is a column-free 24-meter-tall lobby. The landscape was designed by Francis Landscapes. The tower was included in the list of the best inventions of 2011 by TIME magazine.",
+     },
+    
+]
