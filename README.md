@@ -1,2 +1,2 @@
-# kuwaitLandmarks
-This is my first SwiftUI project
+# LandmarksKuwait
+ this is my first SwiftUI project
